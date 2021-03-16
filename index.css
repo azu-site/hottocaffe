@@ -51,7 +51,7 @@ header {
 /*ここまでヘッダー*/
 /*ここからメインビジュアル*/
 .main-visual {
-    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)),url(images/main2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)),url(https://github.com/azu-site/hottocaffe/blob/main/main.jpg?raw=true);
     background-size: cover;
     height: 100vh;
     display: flex;
